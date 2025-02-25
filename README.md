@@ -9,6 +9,8 @@ calendar.csv: Contains dates with holiday and warehouse event indicators. <br><b
 The objective is to forecast the sales column for each unique inventory-date combination. <br><br>
 ![Top Solution](https://github.com/user-attachments/assets/3ca24dce-387b-4ae3-b5ce-e712887c7f2e)
 ![This Solution](https://github.com/user-attachments/assets/cd15e1e1-046b-48d9-af34-4c36ea7ae41a)
+137/777 teams which gives top 17% 
+
 
 
 
