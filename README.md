@@ -7,6 +7,9 @@ sales_train.csv & sales_test.csv: Contain inventory IDs, dates, warehouse names,
 inventory.csv: Provides additional inventory details. <br><br>
 calendar.csv: Contains dates with holiday and warehouse event indicators. <br><br>
 The objective is to forecast the sales column for each unique inventory-date combination. <br><br>
+![Top Solution](https://github.com/user-attachments/assets/3ca24dce-387b-4ae3-b5ce-e712887c7f2e)
+![This Solution](https://github.com/user-attachments/assets/cd15e1e1-046b-48d9-af34-4c36ea7ae41a)
+
 
 
 ## Spaceship Titanic Dimension Transport Challenge
